@@ -1,0 +1,22 @@
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Build tools and preprocessors (if any)
+node_modules/
+.sass-cache/
+*.map
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporary files
+temp/
+dist/
