@@ -55,6 +55,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 Faeze Rahmati
 
 GitHub: @faezerahmatidev
+
 LinkedIn: [Your-LinkedIn-Profile-Link]
 
 ⭐️ If you like this project, please give it a star!
